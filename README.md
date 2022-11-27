@@ -14,7 +14,7 @@ Image classification is a major branch of computer vision. It is relevant to qua
 
 ![Alt text](saved_models/model_v10/stats/plot.png)
 
-In model_v10, overfitting was lowest among model versions. This was accomplished by using dropout layers.
+In model_v10, overfitting was lowest among model versions. This was accomplished by using dropout layers and tuning weight decay.
 
 ## Key Learnings
 
