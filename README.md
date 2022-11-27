@@ -18,7 +18,7 @@ In model_v10, overfitting was lowest among model versions. This was accomplished
 
 ## Key Learnings
 
-I learned of the value of regularization techniques such as dropout layers in image classification, and all CNN, models. Adding dropout layers and using weight decay in the Adam optimizer resulted in significantly decreased overfitting. Prior to regularization, valitation accuracy was notably lower than trin accuracy.
+I learned of the value of regularization techniques such as dropout layers in image classification, as well as all CNN models. Adding dropout layers and using weight decay in the Adam optimizer resulted in significantly decreased overfitting. Prior to regularization, valitation accuracy was notably lower than trin accuracy.
 
 ## Future Considerations
 
